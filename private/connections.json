@@ -1,0 +1,8 @@
+{
+    "ConnectionStrings": {
+        "SampleDatabase": "SampleDatabaseFromSecret",
+        "SampleDatabaseDevelopment": "SampleDatabaseDevelopmentFromSecret",
+        "SampleDatabaseProduction": "SampleDatabaseProductionFromSecret",
+        "SampleDatabaseStaging": "SampleDatabaseStagingFromSecret"
+    }
+}
